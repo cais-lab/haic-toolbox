@@ -1,0 +1,6 @@
+torch==2.7.*
+torchvision
+numpy
+pillow
+pandas
+kagglehub
